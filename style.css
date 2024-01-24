@@ -177,6 +177,7 @@ body{
     width: 113px;
     border: 0;
     margin-top: 13px;
+    cursor: pointer;
 }
 
 .sidebar .cookies{
@@ -257,6 +258,7 @@ footer{
     padding: 16px;
     right: 35px;
     width: 195px;
+    cursor: pointer;
 }
 
 .footer-button:hover{
