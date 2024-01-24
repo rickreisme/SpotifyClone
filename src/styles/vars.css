@@ -1,8 +1,14 @@
 :root{
     --cinza-principal: #121212;
     --cinza-suave: #242424;
-    --branco-cinza: #b3b3b3;
     --cinza-branco: #878787;
+
+    --branco-cinza: #b3b3b3;
+    --branco-cinza2: #a7a7a7;
+
+   
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07);
 
     --fonte-DM: "DM Sans", sans-serif;
 }
