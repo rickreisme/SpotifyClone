@@ -98,10 +98,15 @@
     font-size: 16px;
     font-weight: 700;
     border-radius: 40px;
+    border: none;
     cursor: pointer;
     padding: 25px;
 }
 
+.header-login .login:hover{
+    font-weight: bold;
+    transform: scale(1.05);
+}
 
 footeRR {
     display: flex;

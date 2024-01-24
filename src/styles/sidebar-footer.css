@@ -73,6 +73,11 @@ body{
     flex-direction: row;
     gap: 10px;
     align-items: center;
+    transition: color .5s ease;
+}
+
+.sidebar_navigation ul li a:hover{
+    color: white;
 }
 
 .biblioteca{
@@ -106,6 +111,12 @@ body{
     font-size: 1rem;
     text-align: center;
     padding: 20px 10px;
+    transition: color .5s ease;
+    cursor: pointer;
+}
+
+.titulo-blibioteca .botao-biblioteca:hover{
+    color: white;
 }
 
 .botao-biblioteca #book{
@@ -114,11 +125,16 @@ body{
     padding-right: 8px;
 }
 
-.titulo-blibioteca .fa-plus{
+.titulo-blibioteca .botao-plus{
     margin: 24px 10px;
     color: var(--branco-cinza);
     font-size: 1rem;
-    
+    transition: color .5s ease;
+    cursor: pointer;
+}
+
+.titulo-blibioteca .botao-plus:hover{
+    color: white;
 }
 
 .section-playlist{
