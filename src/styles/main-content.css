@@ -108,6 +108,35 @@
     transform: scale(1.05);
 }
 
+.playlist_container{
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: var(--cinza-principal);
+}
+
+.playlist{
+    margin: 24px;
+}
+
+#greeting{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.session{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.offer__scroll-container::-webkit-scrollbar{
+    
+}
+
 footeRR {
     display: flex;
     justify-content: center;
