@@ -4,7 +4,7 @@ const resultPlaylist = document.getElementById('result-playlists');
 
 // CONSUMINDO A API
 function requestApi(searchTerm){
-    const url = `http://localhost:3000/artists?name_like=${searchTerm}` 
+    const url = `https://chill-luxuriant-consonant.glitch.me/artists?name_like=${searchTerm}` 
     //retornando somente os artistas que tem nome parecido com o que está sendo digitado no input
     fetch(url)
         .then((response) => response.json())//retornando a resposta da consulta em json na variavel response
