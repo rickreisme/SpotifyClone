@@ -1,6 +1,6 @@
-# Spotify Imersão (EM DESENVOLVIMENTO)
+# Spotify Clone
 
-Criação de uma página clone da landing page Spotify Web (Web App) feita como prática da Imersão Front End 2024 da Alura.
+Uma página clone da landing page Spotify Web (Web App) feita como prática da Imersão Front End 2024 da Alura.
 
 ## Tecnologias usadas
 
