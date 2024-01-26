@@ -350,23 +350,3 @@
 #result-artist {
     padding: 20px 40px;
 }
-
-footeRR {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 100px;
-    margin-bottom: 15px;
-    font-family: 'Poppins', sans-serif;
-}
-
-footeRR h3 {
-    font-size: 17px;
-    color: white;
-    font-weight: 600;
-    text-align: center;
-}
-
-footeRR span {
-    color: #0FD90F;
-}
