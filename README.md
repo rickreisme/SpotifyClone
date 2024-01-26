@@ -6,4 +6,5 @@ Criação de uma página clone da landing page Spotify Web feita como prática d
 
 HTML, CSS, Javascript
 
--> reset.css para limpar as configurações padrões do css
+Foi utilizada uma API criada com os nomes de alguns artistas para alimentar a funcionalidade de pesquisa no site, onde à medida que o usuário vai digitando o nome do artista no input, vão aparecendo os cards correspondentes a essa consulta feita na api com o nome do artista.
+A API foi hospedada no github com o json-server.
